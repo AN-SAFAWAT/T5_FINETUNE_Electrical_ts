@@ -1,0 +1,174 @@
+Root Cause,Action Taken
+Ch-4 Temperature was abnormal due to  controller malfunctioning.,We kept disable the faulty channel & monitor body temperature physically.
+Sh-2 fly wheel & non flywheel mode operation was checked.,We fixed the mode it to operate at Non fly wheel.
+Valve-4 proprtional amplifier was faulty.,We replaced the prportional amplifier & then problem was solved.
+Crane remote problem.,We operated the crane from cabin & faulty remote sent to the crane team.
+HMD-14 signal was continuous.,We check & cleaned the HMD.
+30 Nos roller of sh-3 exit were off.,We turned them on immediately & measured current taken by them.
+Parallel unit  (RF05) of FM rectifier was load less although ACB was on sate. So RF03 was feeling current asymmetry with respect to parallel unit & caused the problem.,We had to change some parameter to rectify the problem.
+,
+0,0
+Looper up solenoid valve coil connection was open & caused the problem.,"We rejoined the cable 
+& then problem was 
+solved."
+Problem description in details mentioned below.,We changed the drive by a older one & then restarted the mill.
+CH-6 was showing over temperature although physically body temperature was normal.,We kept disable the CH-6 temporary to avoid the wrong over temperature alarm.
+Discharging door down proximity got damaged & that's why signal became continuous.,We replaced the faulty proximity by a new one & then problem was solved.
+First time when problem was appered we checked all motor terminal but did not notice any abnormality. So changed the drive by a spare one.But after few hours same F0001-overcurrent problem was apperead again and again. Then we tried to reset the drive by disconnecting all load connected with it. But we failed to reset. Finally we check all elctrinoic card & components used inside the drive & reassemdled them. Then we reinstalled the drive as well as restatrted it.,We  replaced the drive & then monitored but thereafter problem was not appeared.
+A false alarm was appeared from the temperature controller & it was disappeared within a moment.,We checked every channel of controller & physical condition of motor & found then quite normal.
+"Billet was bend &  that's 
+why it was taking more time to pass through the entry laser detector","We checked furnace entry laser 
+detector signal from ibaPda & physically."
+Discharging door open proximity got damaged & caused the problem.,We replaced the faulty proximity by a new one & then ok.
+Ethernet communication problem was occurred.,We wait for sometime & then HMI-2 signal became normal. By this time operator re-aligned the billet on charging roller.
+Problem occurred due to command miss.,We checked pusher proximity & charging roller stop signal. Found then ok. Operator had to push the billet manually.
+Couldn't find actual reason.,"We checked HMD 21, shear 3 cutting position, tilting apron operation. Found ok."
+Panel lock cable was loosely connected & caused the problem.,We tightened the cable & then carne became ok.
+Scale was deposited on moving beam frontend & caused the problem.,Checked furnace pusher forward and backward proximity signal
+Furnace feed the billet early.,We just checked HMD & furnace related all signal.
+We kept off the production to switch FD2 to FD1 fan owing to avoid front end bearing damage.,We switched from FD2 to FD1. this time temperature went down. Times taken to rise furnace temperature.
+"Knife position encoder 
+was faulty.",We changed the encoder as well as DTI card to rectify the problem.
+Light barrier-1 signal was flickered & caused the problem. ,We adjusted the light barrier-1 & then ok.
+Shear-2 blade position was abnormal.,We just checked blade position encoder.
+Apron one section of table gap was improper.,Mechanical team checked & fixed it.
+Fire was appeared in Stand-17 valve stand cable by short circuiting in connecting pin lock pressure switch. Also found FRI01 QBD2 breaker tripped.,We disconnected the pressure switch connector which were burnt then module output zero. We connected the cable in QBS 2 breaker. Then ok.
+Root cause couldn't find out.,"We checked pusher proximity, pusher valve command & charging roller command."
+Scale deposited in front of looper-4 sensing point.,We Cleaned the scale at looper-4.
+A spare core of the cable was became powered up by light barrier 24V & this core was shorted somewhere.,We gave protection of the cable & then problem was solved.
+We checked FDA HMD 14 signal got lately.,We adjust HMD 14 by radiant bar. Then solved.
+NDE cooling fan motor's bearing ceased. Also impeller stuck inside.,We had to change cooling fan motor by a new one.
+Motor-2 input power cables were damaged at terminal.,We changed the damaged cable by a new cable & then ok.
+Bar hear tracking error was occurred.,We checked all HMDs & other signals related with shear-2 cut.
+Sh-1 flywheel position proximity signal was continuous due to proximity faulty.,We replaced the proximity by a new one & then ok.
+RTD terminal of front bearing was loosely connected & caused the problem.,We tightened it properly & then ok.
+Short bar was the reason.,Production team removed that bar & restarted the mill.
+Somehow bar head hit after sh-2 cut at sh-2 exit channel & problem was happened..,We checked all related signal & found ok.
+Forward/Backward displacement sensor was faulty.,We changed the sensor by anew one & the problem was solved.
+It was not an electrical delay.,We cleaned those scale by water to avoid HMD flickering.
+Temperature controller-9 & 10 channel-7 & 8 was showing overtemparature. ,We just increase the set value from 80°C to 90°C to avoid overtemperature alarm.
+"Due to abnormal home position of Shear blade, bar head passed via shear without cut.","We just checked shear encoder, Cable & Connections."
+Charging roller motor-1 encoder couldn't be reset as  beam was high (187mm) & that’s why encoder couldn't track the billet position.,"We just checked Encoder, pusher proximity & buffer baffle proximity."
+Two nos fuse blown at rectifier master panel and two nos fuse blown at rectifier slaver panel.,We changed 4 nos fuse. Then problem solved
+It was happened due to manual operation of furnace charging side.,We just checked furnace entry laser detector & encoder. We found them ok. 
+Furnace entry laser detector was flickering due to high body temperature. Furnace charging door was open at that time & excess heat was coming from there.,We fixed an additional air line to reduced the CMD body temperature & mechanical team install the charging door & then problem was solved.
+"BM-1 encoder split pin pipe got broken,",We changed the CA-A BM-1 encoder split pin pipe & then machine became ready for auto operation.
+Short bar bend with sec-1 arm.,We found FDA all signal ok.
+Encoder malfunctioning was occurred.,"We checked encoder connection, encoder shaft & cable."
+Actually Backward cylinder was not reached at fully backward & caused the problem.,"Each & every time operator had to back it manually & it gets ""Rear Lower"" signal for homing."
+Sh-2 blade position was abnormal & caused the problem.,We changed the Sh-2 encoder.
+It was not an electrical problem. Furnace exit channel got displaced & caused the problem.,Production team fixed the problem.
+Rotating arm was stuck somewhere at that moment & caused the problem,We just checked rotating arm home position proximity switch & their target plate.
+Speed feedback problem was occurred,"We just checked the sh-3 encoder 
+coupling & connections."
+B group control transformer breaker QF2 was tripped as it was  under size.,We changed the breaker by anew one & then ok.
+Rotating arm was stuck somewhere at that moment & caused the problem,We just checked rotating arm home position proximity switch & their target plate.
+Dust was deposited on the front glass if HMD,We cleaned those dust & then ok.
+HMD#1 signal was flickered as dust was deposited on the from glass of HMD#1.,We cleaned the glass  & then ok.
+HMD-11 signal was flickered during the adjustment of looper channel cooling water.,We adjusted the cooling water properly.
+CA-B BM-1 photocell got damaged.,We replace that photocell.
+Bar tail was not properly shifted to CB from tilting apron & next cut head hit there.,We adjusted middle position proxy due to production requirement. Production team increase apron lowering time.
+Huge amount of scale was deposited  at the sensing area of looper-4,We cleaned the looper sensing point by water 
+Rust deposited at the RTD terminal.,We removed those rust & then ok.
+CH--4 was showing abnormal temperature.,We kept disable the channel to monitor.
+Motor-4 terminal cover was shrted with it's terminal.,We fixed the terminal cover properly & then ok.
+Forward timer base was faulty.,We modified the circuit. 
+K12 relay was faulty ,We changed the faulty  relay by a new one & then ok.
+Crane-9 CT breaker was tripped.,We normlly reset the breaker & then ok.
+Temperature controller malfunctioning was happened.,We checked & fixed the faulty channel.
+TR-32 was showing overload.,This time we put in the VCB manually & later we charged the TR-31 VCB coil.
+No of bar of a layer was almost twice & that's why layer was taking more time to reach at CA-A inlet & caused the problem.,Production team removed that bar & restarted the mill.
+Light barrier-2 position was abnormal.,We adjusted the light barrier-2 & them problem was solved.
+HMD-3 signal was flickering due to fume in front of it.,We adjusted the compressed air pressure and then problem was solved.
+K group rectifier's 630A 4 Nos Fuse were blown.,We replace those fuses by new 4 fuse of 630A & then rectifier became ready for operation.
+HMD-16 signal was flickered at the middle portion of billet due to water droplet was on the HMD front glass.,We  cleaned the HMD glass &  the ok.
+Heavy fume was coming from stand-2 entry guide as it a modified guide without cooling. HMD-4 signal was flickering due to this fume.,We set a extra blower fan to remove this fume.
+Channel cooling water line displaced.,We adjusted the water line.
+Bar stuck at magnet roller also abnormal sound came from roller 5.,We reset the roller motor  breaker after removing the bar.
+0,0
+Charging door up proximity signal was missing due to dust deposited on it.,We cleaned those dust & then ok.
+,Opeartor manually ste the position using JOG mode.
+BM-1 clamping device coil connection was open.,We reconnected the coil & then ok.
+15 nos roller had mechanical problem along with 2 nos electrical problem & that's why bars were not being aligned properly.,We along with mechanical team fixed the problem.
+HMD-16 signal was flickered.,We checked Loop Scanner air line & channel cooling water. Also checked connection at both end & found all of them okay.
+Cooling bed HMD signal was continuous.,We opened HMD connection then reconnect it & then problem was solved.
+Test signal cable got burnt & caused the problem.,We repaired the cable & then problem was solved. 
+"It was not an electrical 
+ problem.","We checked all signal related with billet  positioning & found 
+them ok."
+Furnace exit  HMD  signal was flickered due to scale deposited in viewing channel.,We cleaned those scale & then problem was solved. 
+Temperature controller malfunctioning was happened.,We just monitored motor temperature physically as well as controller temperature.
+Temperature controller base was faulty.,We changed the temperature controller base by a new one.
+It was not an electrical problem. Because apron was a stuck somewhere in between middle & low.,We just check apron proximity signals & valve's coil connection.
+"Loop Scanner-1 fixed base
+ position was little bit abnormal ","We changed the fixed base by 
+a spare one."
+It was not an electrical problem.,Mechanical team fixed the problem by tightening the twister guide.
+Stand motor-18 drive side bearing got damaged.,We changed stand 18 motor by a new one.
+,We changed them & restarted the mill.
+H. Looper conveyor valve coil was faulty & that's why problem was happened.,"This time, Mechanical team changed the valve."
+Short bar was stucked with the chain & motor tripped.,We remove the short bar with the help of production team.
+,
+Cold shear cutting roller-3 was off.,We checked & found motor faulty. We scheduled it to change  during upcoming maintenance.
+Billet slightly became bend.,Operator position the billet using jog mode.
+Magnet panel 63A DC fuse was  blown.,We replaced the faulty fuse by a new one.
+Actually Backward cylinder was not reached at fully backward & caused the problem.,"Each & every time operator had to back it manually & it gets ""Rear Lower"" signal for homing."
+Looper cooling water was insufficiant.,We adjusted the looper sensing point cooling water flow & then ok.
+Water flow was more than design (840 m3/h). So pressure dropped.,Reduced flow in QTB and restarted pump again.
+We took a gap to remove those scale from HMD sensing area.,We cleaned those scale by water spray.
+Drive -9 profibus connector was faulty.,We reset the drive & took a ghost rolling & then restarted the mill.
+Cooling fan motor of pinch roll motor was faulty.,We changed the faulty motor by a new one & then ok.
+"Controller malfunctioning
+ was occurred.","Channel 7 & 8 was showing high 
+temperature but in actual temperature was normal."
+Light Barrier-1 cable was damaged by a hot shot bar & caused the problem.,We repaired the cable & restarted the mill.
+Bar was stuck at rotating arm chain at that time  & caused the problem.,We  checked rotating arm home position proximity switch & target plate & then ok.
+Somebody pressed the BM-2 local panel bottom side emergency.,We released the emergency & then ok.
+It was not an electrical delay.,"We checked  pusher valve solenoid coil, connectors & pusher in command. We found them normal in operation. "
+Short bar issue.,We monitored chain motor condition & aligning roller motor condition owing to avoid tripping problem.
+Actually Backward cylinder was not reached at fully backward & caused the problem.,"Each & every time operator had to back it manually & it gets ""Rear Lower"" signal for homing."
+Proxy cable torn apart under the connector. 24v power was missing.,"we arrange a new 24v power from module, also check encoder. Then adjusted proxy home position."
+,
+Lub oil flow switch connector was damaged.,We changed the faulty connector by a new one.
+It was not an electrical delay.,We cleaned those scale by extra water.
+Q1 breaker was tripped by sudden overload at old PLC8 panel which feeds power for CS Lub oil local panel.,We reset the breaker & measured current taken.
+Furnace entry laser detector was continuous  two second or three second more after leaving the billet tail due to dust deposited on the sensor glass.,We just cleaned the laser detector emitter then problem solved.
+Actually Backward cylinder was not reached at fully backward & caused the problem.,"Each & every time operator had to back it manually & it gets ""Rear Lower"" signal for homing."
+Magnet panel incoming two nos fuses were blown.,We replaced those fuse & restarted the crane.
+Scale deposited in front of looper-4 sensing point.,We Cleaned the scale at looper-4.
+Actual reason couldn't find out.,We checked shear-1 blade position physically as well as encoder feedback & found them okay.
+,We replaced all of damaged equipments by spares.
+Light barrier-2 signal was flickered & caused the problem. ,We adjusted the reflector & the problem was solved.
+Rust was deposited at rear bearing RTD terminal.,We remove the rust by emery paper & then ok.
+Rotating arm chain was teared by a short bar.,We found FDA all signal ok.
+DC link overvoltage (F006 ) was  reason for drive tripping.,We reset the drives & restarted the mill after taking a ghost rolling.
+Furnace surface near pusher proximity base became bend slightly & that's why pusher proximity base got displaced & caused the problem.,We had to modify the pusher proximity base position to rectify the problem.
+HMD-21sensing point cooling water pipe got displaced. ,We adjusted the sensing point cooling water pipe & restarted the mill.
+Looper water flow was insufficient.,We took a gap and increased water flow.
+Sec-1 home position target plate got displaced & caused the problem.,We checked both target plate of arm position proximity.
+Pump motor 3 tripped due to over temperature.,Mechanical turn on TMT pump 2 to rectify the problem.
+It is seemed that apron got stuck in between middle and high while it was going to high.,We checked FDA signal and solenoid coil voltage & found them okay.
+It was not an electrical  problem.,"After mechanical work, we just turned them on."
+,
+We found B group rectifier one control transformer faulty. Also found a 63 A MCB QF2 breaker faulty.,We replaced that faulty MCB.
+Sudden under voltage was appeared & drive was tripped. So motor lost breaking control & due to inertia it was making continuous cut.,"We just checked voltage. When voltage became stable, we restarted the shear."
+We found huge amount scale deposited on looper channel.,We cleaned looper base.
+HMD-11 signal was flickered during the adjustment of looper channel cooling water.,We adjusted the cooling water properly.
+It was not an electrical delay. Because production team stopped the mill to check & it is a convention that it may take more gap for 2 or 3 billet to be stable.,We checked all signal related with Asking metal signal & all of them were ok.
+Motor no-5 cable was shorted with terminal cover.,We repaired the cover & then ok.
+It was not an electrical delay.,Mechanical team checked & we also checked apron operation related all signal in FDA & found them ok.
+Most probably voltage fluctuation was occurred & decrease the pressure at that time.,We just checked all QTB pump motors & found them in normal operation.
+Furnace entry laser detector signal was flickered at tail portion due to dust deposited at the sensor glass.,We cleaned those dust & then ok.
+we found huge amount fume  in HMD viewing area,We arrange extra air line and ok
+0,0
+Furnace Entry laser detector was flickered at billet head position & caused the problem.,We cleaned the laser detector receiver & tightened the connection.
+Chain transfer motor-1 was tripped due to overloading.,We checked chain connected with this motor & then reset the MPCB.
+Short bar stuck at there & caused the problem.,Mechanical team fixed the Chain & removed the short bar.
+,
+Pusher forward proximity got damaged & caused the problem.,We replaced the faulty proximity by a new one & then ok.
+HMD-4 signal was flickered as hot scale was fallen at the sensing area just after passing the tail.,We arranged an extra water line to rectify the problem.
+S2 proxy signal missing due to proximity got down. ,We adjusted it properly & then ok.
+Motor encoder was faulty.,We changed the faulty encoder by anew one & then ok.
+Furnace feed the billet manually & caused the problem,Production team removed the cobble bar & restarted the mill.
+Flow switch cable jack was connected loosely & caused the problem.,We connected it properly & then ok.
+Charging bed CMD was faulty & caused the problem,We changed then faulty CMD by anew one & then problem was solved
